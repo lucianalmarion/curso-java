@@ -1,4 +1,4 @@
-// Classe Principal
+// Classe br.com.alura.screenmatch.principal.Principal
 public class PrincipalLivro {
     public static void main(String[] args) {
         Livro livro1 = new Livro();

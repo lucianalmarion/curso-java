@@ -5,76 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="492fa914-030d-477c-a979-168dedf450dc" name="Changes" comment="Subindo todo o projeto dos cursos Allura.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenmatch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccountBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlunoNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculadoraSalaRetangular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculoGeometrico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversaoFinanceira.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversorMoeda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversorTemperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversorTemperaturaPadrao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GerandoPrimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IdadePessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModeloCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumerosPrimos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrinccipaPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrincipalAluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrincipalAlunoNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrincipalCalculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrincipalCarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrincipalContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrincipalIdadePessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrincipalLivro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrincipalMusica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrincipalProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProdutoFisico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TabuadaMultiplicacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteAccountBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteAnimais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteCalculadoraSalaRetangular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteConversorMoeda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteConversorTemperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteNumerosPrimos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteTabuadaMultiplicacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VerificandoPrimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/CalculadoraDeTempo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/Classificavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/FiltroRecomendacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Episodio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/aluraminhasmusicas/modelos/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/aluraminhasmusicas/modelos/MinhasPreferidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/aluraminhasmusicas/modelos/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/aluraminhasmusicas/modelos/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/aluraminhasmusicas/modelos/Podcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/aluraminhasmusicas/principal/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/aluraminhasmusicas/principal/PrincipalPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComListas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio/colecao/dados/CartaoDeCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio/colecao/dados/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio/colecao/dados/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/NewProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/Numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/PrincipalContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/PrincipalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/PrincipalNewProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/PrincipalTitulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/ProdutoPerecivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/colecao/dados/dados/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrincipalContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrincipalContaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrincipalLivro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrincipalLivro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrincipalProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrincipalProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +46,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lucianalmarion&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f364e6e9-0891-4542-9ffb-a001c0f0badb" />
+        <option name="url" value="https://github.com/lucianalmarion/curso-java" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -101,44 +76,105 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.PrinccipaPessoa.executor": "Run",
-    "Application.Principal.executor": "Run",
-    "Application.PrincipalAlunoNew.executor": "Run",
-    "Application.PrincipalCalculadora.executor": "Run",
-    "Application.PrincipalContaBancaria.executor": "Run",
-    "Application.PrincipalIdadePessoa.executor": "Run",
-    "Application.PrincipalMusica.executor": "Run",
-    "Application.PrincipalPessoa.executor": "Run",
-    "Application.PrincipalProduto.executor": "Run",
-    "Application.TesteAccountBank.executor": "Run",
-    "Application.TesteAnimais.executor": "Run",
-    "Application.TesteCalculadoraSalaRetangular.executor": "Run",
-    "Application.TesteCar.executor": "Run",
-    "Application.TesteContaBancaria.executor": "Run",
-    "Application.TesteConversorMoeda.executor": "Run",
-    "Application.TesteConversorTemperatura.executor": "Run",
-    "Application.TesteNumerosPrimos.executor": "Run",
-    "Application.TesteTabuadaMultiplicacao.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Numeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrinccipaPessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalAlunoNew.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalCalculadora.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalComListas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalContaBancaria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalIdadePessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalMusica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalNewProduto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalPessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalProduto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalTitulo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Produto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProdutoPerecivel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteAccountBank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteAnimais.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteCalculadoraSalaRetangular.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteCar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteContaBancaria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteConversorMoeda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteConversorTemperatura.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteNumerosPrimos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteTabuadaMultiplicacao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Titulo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;teste__commit&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.aluraminhasmusicas.principal.Principal" />
+}</component>
+  <component name="RunManager" selected="Application.Principal">
+    <configuration name="Numeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista.colecao.dados.Numeros" />
       <module name="screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.aluraminhasmusicas.principal.*" />
+          <option name="PATTERN" value="lista.colecao.dados.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafio.colecao.dados.Principal" />
+      <module name="screenmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafio.colecao.dados.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalComListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.principal.PrincipalComListas" />
+      <module name="screenmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.screenmatch.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalTitulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista.colecao.dados.PrincipalTitulo" />
+      <module name="screenmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lista.colecao.dados.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Titulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista.colecao.dados.Titulo" />
+      <module name="screenmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lista.colecao.dados.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,6 +185,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.PrincipalTitulo" />
+        <item itemvalue="Application.Titulo" />
+        <item itemvalue="Application.Numeros" />
+        <item itemvalue="Application.PrincipalComListas" />
       </list>
     </recent_temporary>
   </component>
