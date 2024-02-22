@@ -1,4 +1,4 @@
-//Classe Principal
+//Classe br.com.alura.screenmatch.principal.Principal
 public class PrincipalContaBancaria {
     public static void main(String[] args) {
         ContaBancaria conta = new ContaBancaria();

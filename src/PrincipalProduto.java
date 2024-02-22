@@ -1,4 +1,4 @@
-//Classe Principal
+//Classe br.com.alura.screenmatch.principal.Principal
 public class PrincipalProduto {
     public static void main(String[] args) {
         Produto produto = new Produto();
